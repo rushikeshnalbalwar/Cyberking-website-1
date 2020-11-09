@@ -87,21 +87,3 @@
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 }
-
-<<<<<<< HEAD
-=======
-@media screen and (max-width: 405px) {
-    nav ul {
-        flex-wrap: nowrap;
-    }
-    nav ul li.search {
-        width: 50vmin;
-    }
-    nav ul li input {
-        width: 40vmin;
-    }
-    nav ul li .search-icon {
-        width: 10vmin;
-    }
-}
->>>>>>> 279d0ff69e5ab231fd353ac01878860fb628cd46
