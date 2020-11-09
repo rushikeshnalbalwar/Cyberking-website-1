@@ -147,7 +147,6 @@ nav ul li.btn span.show:before{
     width: 10vmin;
   }
 }
-<<<<<<< HEAD
 
 
 /*
@@ -324,7 +323,6 @@ footer{
   .main-content .box{
     margin: 5px 0;
   }
-=======
 * {
     box-sizing: border-box;
 }
@@ -358,5 +356,4 @@ h1 {
     font-weight: bold;
     padding-right: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
->>>>>>> 2c546d41768993530a550ed735ba59aa5e2889b3
 }
